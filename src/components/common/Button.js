@@ -12,10 +12,10 @@ const Button = ({callback, text}) => {
 
 const styles = {
   buttonStyle: {
-    flex: 1,
     alignSelf: 'stretch',
     borderColor: '#000',
-    borderWidth: 1
+    borderWidth: 1,
+    flex: 1
   },
   textStyle: {
     alignSelf: 'center',
