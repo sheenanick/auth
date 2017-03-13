@@ -16,7 +16,7 @@ const styles = {
     backgroundColor: '#f2f2f2',
     justifyContent: 'center',
     alignItems: 'center',
-    height: 60,
+    height: 48,
     elevation: 8,
     position: 'relative'
   },
@@ -25,4 +25,4 @@ const styles = {
   }
 };
 
-export default Header;
+export { Header };
